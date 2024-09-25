@@ -1,0 +1,9 @@
+{
+	"name": "RetailDataFactoryy",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ca555be4-66af-4c49-9d49-95cf1a1c441e",
+		"tenantId": "a4431f4b-c207-4733-9530-34c08a9b2b8d"
+	}
+}
